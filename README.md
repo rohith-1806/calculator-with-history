@@ -34,7 +34,7 @@ how a calculator interface works with structured layout and user interaction.
 
 <h2>Author</h2>
 <p>
-<strong>Perumalla Rohith.</strong>
+<strong>Perumalla Rohith</strong>
 </p>
 
 </body>
