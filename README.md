@@ -14,7 +14,7 @@ It allows users to perform basic arithmetic operations and keeps a record of pre
 
 <h2>Features</h2>
 <ul>
-    <li>➕➖✖️➗ 🔣 Basic arithmetic operations</li>
+    <li>➕➖✖️➗ Basic arithmetic operations</li>
     <li>History section to view previous calculations</li>
     <li>Clear option to delete calculation history</li>
     <li>Exit option to close the calculator</li>
